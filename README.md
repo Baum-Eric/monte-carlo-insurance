@@ -1,15 +1,17 @@
-# monte_carlo_insurance.py
+# Monte Carlo Insurance Simulation
+
 ## Overview
-Simulated insurance losses using Monte Carlo methods to estimate risk and variability.
+Simulated insurance losses using Monte Carlo methods to estimate risk, variability, and potential extreme outcomes.
 
 ## Methods
-- Modeled claim frequency using Poisson distribution
-- Modeled claim severity using exponential distribution
-- Simulated total losses across 10,000 scenarios
+- Modeled claim frequency using a Poisson distribution  
+- Modeled claim severity using an exponential distribution  
+- Simulated total losses across 10,000 scenarios  
 
 ## Results
-- Estimated average loss, variability, and extreme outcomes
-- Visualized distribution of total losses
+- Estimated average loss and variability  
+- Evaluated extreme loss scenarios  
+- Visualized distribution of total losses  
 
 ## Tools Used
 Python (NumPy, Matplotlib)
